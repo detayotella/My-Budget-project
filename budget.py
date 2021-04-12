@@ -1,6 +1,3 @@
-def create_spend_chart(categories):
-    return None
-
 
 class Category:
     """This are categories included in the budget"""
